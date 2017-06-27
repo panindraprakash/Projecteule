@@ -1,4 +1,4 @@
-// Multiples of 3 and 5 below 1000.cpp : Defines the entry point for the console application.
+// Multiples of 3 or 5 below 1000.cpp : Defines the entry point for the console application.
 //
 
 #include<stdio.h>
@@ -16,7 +16,7 @@ void main()
     }
 	
   }
-  printf("Multiples of 3 and 5 below 100 are :\n");
+  printf("Multiples of 3 or 5 below 100 are :\n");
   for(i=0;i<c;i++)
   {
     if(i%10==0)
@@ -25,7 +25,7 @@ void main()
     }
     printf("%d\t",a[i]);
   }
-  printf("\nThe multiple sum of 3 and 5 are %d\n",sum);
+  printf("\nThe multiple sum of 3 or 5 are %d\n",sum);
 } 
   
   
