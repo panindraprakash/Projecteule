@@ -1,4 +1,4 @@
-// Pythagorean triplet.cpp : Defines the entry point for the console application.
+// Pythagorean Triplet.cpp : Defines the entry point for the console application.
 //
 
 #include <stdio.h>
