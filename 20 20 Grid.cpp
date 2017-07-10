@@ -60,7 +60,7 @@ int main(){
       max=diag;
     }
 
-  printf("%dn",max);
+   printf("%dn",max);
 
   return 0;
 }
